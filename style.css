@@ -32,7 +32,7 @@ h1, h3 {
       }
  }
 
-table, tr, td, th {
+div.a {
   position: top;
   top: 35%;
   left: 15%;
