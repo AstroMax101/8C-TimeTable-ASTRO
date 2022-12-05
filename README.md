@@ -1,1 +1,4 @@
-<b> Link - https://astromax101.github.io/8C-TimeTable </b>
+<B>LINK</B>
+<br>
+<b> https://astromax101.github.io/8C-TimeTable-ASTRO/ </b>
+
